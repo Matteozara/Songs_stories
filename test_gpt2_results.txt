@@ -1,0 +1,312 @@
+In this file are reported the tests done with the 3 finetuned gpt2: gpt2_fairytales, gpt_40000, gpt2_80000.
+The tests consist to run the generation 3 times with different songs: Perfect, Flowers and Party in the usa
+
+TEXT:
+
+###################### gpt2_80000 ############################################# 
+---------- FLOWERS -------------
+Can love me better? It is very important to be fair. I am happy and believe in you every day. One day, it started raining. I asked my Mommy what it was like. Her Mommy said it was fun!
+
+But then, something went wrong. The rain had made a terrible flood. I heard screams for help. I tried to hide behind a bush, but the flood was too strong. Mommy took me inside. 
+
+The next morning, my Dad called my mommy out. He told her that they were going to work quickly. Together we worked hard and waited patiently. Soon, the flood was gone. Mommy felt so happy and proud of herself. She knew that she had made a new friend when she got her own thunderstorm. From then on, I always been fair and believed in myself. I will always be fair and believe in others even when times are tough and sometimes life does not work out as expected. Love Mommy! You are the best! 
+
+The end. It was worth it in the end. Sometimes people just need to know how to make friends with nature! If you keep believing in yourself and being fair, everyone will come around to meet you and see you smile. Life is more important than winning some things, but at the same time, there can still joy in knowing the world can be just another day of fun. My Mommy knows this and thinks smiling is nice. Let's find some more joy together
+
+
+
+---------- PARTY IN THE USA -------------
+Jay song was on so. His mommy said it was time to get back outside. Billy looked in the window and saw something cold. It was an open birdcage with yellow flowers and fluffy feathers.
+
+Billy wanted to see what was inside. He ran into the door and started to climb up and down. Suddenly, he heard a knock on the door. 
+
+"Be careful," said his mommy. "It might be a trap."
+
+The doors opened and Billy saw a lot of birds flying around in circles. He watched as the birds flew faster and faster. 
+
+But when they went back outside, it was still dark outside. Billy didn't want anyone to find out. So he kept going until he got tired. 
+
+Finally, the sun started to set and the air filled with snowflakes. Billy's parents couldnâ€™t stop smiling at him. They were happy that he had made something fun. 
+
+Billy waved goodbye to all the birds and began to go back outside. It was time for the house-cleaning. He stayed close by the window while his mommy put the open birdcage away. 
+
+The end.  Jimmy thought about how brave he had been towards finding the trap when he heard that day. He decided to unsettling himself. He still felt safe! The end. Where did he go? Now he knows where he can go again tomorrow! Whenever he gets comfortable in his new shell, h
+
+
+
+
+---------- PERFECT -------------
+Found girl beautiful and sweet. Every morning she would rub her head against the button in her room. It made her shiver. She loved wearing it all the time.
+
+One day she decided to join in the fun. She put on her favourite dress and ran around the kitchen. She pushed the buttons so hard that her mommy and daddy laughed and applauded.
+ 
+After lots of testing, her mommy said that she had solved the puzzle! All the children were excited and giggled. She pointed to the one spot where the buttons went - square one.
+
+The little girl was delighted to have solved the puzzle. She waved goodbye to the sun, and everyone clapped together.
+
+When the little girl looked out at the sky, she noticed that she had a special bubble chamber in the corner of her room. It was full foaming and bubbly. It made her look like one big bubble queen. 
+
+ The happy girl grabbed a piece of bubblemeister fabric and held the bubbles close to her. She felt like it was the perfect mask of her magical bubble reality.  And every night she would keep rubbing her bubble castle until her mommy and daddy rewarded her for keeping it safe. 
+
+The end.  Your bubble chambers will stay under your pillow forever. No one should ever bother you if you do not get rid of them. That is why you must always try hard to keep things simple. A bubble life always gets you closer and closer to your drea
+
+
+
+
+
+
+
+
+
+###################### gpt2_fairytales ############################################# 
+---------- FLOWERS -------------
+Can love me better?'cried she. suddenly a great yellow cloud came over the castle, and pensively stared at it with a wicked contemptuous face which only made her more unhappy than ever. flinging one ear towards the room where he was sleeping in comfort hid an immense prickling of hot blood that rose from his open mouth ; but still he remained moist like some human perspiration upon the tongue ; then stopped eating altogether for fear that if anything happened to him no change would follow : now what should i do? finally tears began to flow out of every cheek on his neck, even though all round him as much as before! when liu yin - ting told maisie how bad things had been, bawled high up amongst herself angrily, so said this bitterly ashamed maid : " oh my master thou art poor indeed, dan! go home hurried enough -- din your daughter find theeINT you lie asleep or have drank too quickly overboard pass by without ill effect!!!!" lugh looked here startled although mock gravefaced looking again : yet there was nothing we could make of nether world emperor wang lei ugly nor elegant not because red velvet curtains were common farquhar gowns, blue silk long coats and crimson scarlet ties satin sidesew boots spread about their shoulders, sweetheart garland lay draped beside them just below the green mantle of an eagle perched across from us away above. night covered beachside snuffed through blume thimble hangings clear skyward
+
+
+
+---------- PARTY IN THE USA -------------
+Jay song was on so. she forgot all the progress and speed that had been taken, mrs. bee's house ; where he lived -- his old stove to - night work of wood burning iron fire with steel bolts for sprinkling in window linens ( january might be fashioned as a year sometimes it is say ) -- strewn ashes upon tile floors i hear above me like the cry of tiny children when they first wake up at noon after dancing out every limb about their lawn bowls containing corn from sunny hillside trees beneath them without setting eyes upon you dainty little animals.... nay, boy! than men once pay your respects till there are no more liars living abroad yet because we have brought home an honest servant now called tiffany gooseberry cucumber who makes pancakes long enough which do not get made by hopping horses into some odd jobs or joining fresh spinning barrows under branches reaping vast quantities of cabbage seed among other late crops according to thy master bread preservationist yonder dear aunt jake luince... but just then her turn came celandine pharoah gallings barking orders over various pears whose skin since frost has grown thinner still amid red persimmons quite unusually tender scales hung high round its head proclaiming " girl pot hoarse : oh what ould confusion please faggot clair gadcocks him? mortal twitchin' man won't resist knowing wen while catching terror pen witgay monkey rides awa gude johnny tidstone yellow star gay r
+
+
+
+
+
+---------- PERFECT -------------
+Found girl beautiful and sweet rose flew over her, dazzled by her face. at length she stopped in front of a great window - ring on the wall ; yet somehow or other she managed to avoid looking out into the open field towards some pleasant sight which was now becoming quite clear through the snow. after sunset all began to talk together as they had been sitting before awhile about it, during which almost no one else really spoke-- for ivan putting his foot upon the snuffling stick asked where he supposed princess silverwhite's eyes were? when christian song finished its beat that day there sat seven figures standing up behind metal cups with withered civilities hanging from them -- but who cared what little thoughts sprang forth among these words of wisdom? why then did none come forward any more than their wildest fears afterwards, till sorrow failed so terribly long ago! alas! fortunately two youths lived here who could not understand truth very well enough, even though conchubar learned pretty quickly how things went wrong abroad. celandine is thought to be the mother goddess of fairy songs ; while maisie her chief wonder is... under suspicious circumstances let us guess whom this maiden might actually be if unfortunate folk came down thither and regretted giving orders like such foolishness again, since those strange people always complain bitterly concerning ill fortune anywhere.... ah yes indeed we know (and do believe ) oh : surelyn't i hear news mentioning each other once every twelve months!--how may we prove our opinions fairly amiable 
+
+
+
+
+
+
+
+
+
+
+###################### gpt_40000 #############################################
+---------- FLOWERS -------------
+Can love me better?
+
+Maybe that's why I can still be so very generous. One day, my mommy took me to the circus. There were lots of people singing and dancing in the crowd. All the animals looked happy and ready for fun. 
+And what a wonderful sight it was! The lights were bright, and music was all around. Everyone clapped, clapped and cheered as the elephants, giraffes plus lions and monkeys danced their best. 
+
+I loved seeing all these new treats on a huge stage. It made me feel like I could run up and down at the speed with ease. And every time I walked by the circus, the crowds sang along with my joy.  My mommy smiled and said she would always look after me when they come. 
+
+But remember, this isn't about money. It really is something else: love and generosity. Love brings us together and kind hearts are our closest friend. So wherever we go, we take care fondly of each other and smile at the world around us. In that spirit Paul, Mira, and I found that a lot rare and helpful things mean much more than strings, kisses or bows. We used them to teach each other gratitude and kindness. Our hope was to keep you close and have joyful adventures too. From then on, every day, we never left the circus without loving and caring. Together, we truly believe we can help anyone we want. Or maybe those same ways becom
+
+
+
+---------- PARTY IN THE USA -------------
+Jay song was on so. He sang loudly and everybody had a blast! Then he started to dance around the park. Everyone stopped by, they heard his drumming and dancing.
+
+The jolly sky made him smile. Soon everyone in town got out of their houses and ran inside. Johnny watched as his mom gave him a big hug and encouraged him to sing more for the rest day.
+
+Then Johnny came back with a big grin on his face. He felt very lucky to have listened intently to the song all day. It looked like fun and soulful music - it meant success at school and being humble. 
+
+He marched down the street, singing along with his friends and collecting colorful markers every time he went outside. He made sure everything was beautiful from a young age and everyone's laughter rang in the sky when he showed them each his special patterned spots. 
+
+
+Johnny learned an important lesson that day - if you do things slow down, you will make people happy. The Jingle was such a good tool for teaching others to go through the motions while still feeling confident.  His Mum taught him how to practice really hard one week, then after that it was just because of his quiet acts that could take days to get the hang of.  And why not? If you learn your own tunes right, everyone is impressed with you and can easily live happily ever after. But what about those who are intelligent enough to understand other people and appreciate their gifts? Is something valuable lef
+
+
+
+
+---------- PERFECT -------------
+Found girl beautiful and sweet told her parents they were going to the park. It was very busy today so the sky began to brighten up a bit. The day started to get dark, but it still had enough light.
+
+"What's important, little one?" asked Ben.
+
+"I don't know what it is," said the little girl softly. "Maybe we need another night." She slowly walked towards the park, holding her favorite blanket near her. 
+
+The sun shone brightly in the sky with brilliant colors. It made everything sparkle and purple. 
+
+The three of them got closer and whispered into each other's ear as they talked about things. They enjoyed their quiet time together and never wished they could leave for the same spot again. The end.  Everyone clapped and cheered loudly!  From that day onwards Jack and Anna went to the park every week and reminded each other of this special place. 
+
+The moral of the story - always remember that when you want to stay and tell your stories there's always someone who will like it if you can bear it. It's also important not everyone loves the same thing or tells an all too true truth. If you love something seamess, find another way to take comfort. One Saturday morning Jack came home from school late-night opera and he opened the last book on his desk. His mom saw him reading and admired his pen. She knew she should have listened before getting worried.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+METRICS:
+
+###################### gpt2_80000 ############################################# 
+---------- FLOWERS -------------
+grade_level:  4.2
+ari:  4.0
+coleman_liau:  5.2
+gunning_fog:  5.65
+smog:  7.5
+reading_ease_score:  85.39
+perplexity_score:  185.1927148167303
+DATA
+number unique words used:  172
+average words length in char:  4.205645161290323
+avg sentences length in words:  13.777777777777779
+average sentences length in char:  71.27777777777777
+
+
+
+
+---------- PARTY IN THE USA -------------
+grade_level:  2.4
+ari:  3.9
+coleman_liau:  5.31
+gunning_fog:  4.77
+smog:  6.8
+reading_ease_score:  95.37
+perplexity_score:  173.46051795349263
+DATA
+number unique words used:  164
+average words length in char:  4.320675105485232
+avg sentences length in words:  9.153846153846153
+average sentences length in char:  47.88461538461539
+
+
+
+
+
+---------- PERFECT -------------
+grade_level:  5.0
+ari:  6.0
+coleman_liau:  6.89
+gunning_fog:  6.33
+smog:  8.2
+reading_ease_score:  83.15
+perplexity_score:  190.52279850834444
+DATA
+number unique words used:  168
+average words length in char:  4.389105058365759
+avg sentences length in words:  15.117647058823529
+average sentences length in char:  81.0
+
+
+
+
+
+
+
+
+
+
+###################### gpt2_fairytales ############################################# 
+---------- FLOWERS -------------
+grade_level:  11.6
+ari:  16.8
+coleman_liau:  10.92
+gunning_fog:  13.68
+smog:  10.1
+reading_ease_score:  65.9
+perplexity_score:  214.35251959768723
+DATA
+number unique words used:  232
+average words length in char:  4.722222222222222
+avg sentences length in words:  63.0
+average sentences length in char:  359.5
+
+
+
+
+---------- PARTY IN THE USA -------------
+grade_level:  15.5
+ari:  22.0
+coleman_liau:  11.51
+gunning_fog:  18.01
+smog:  11.5
+reading_ease_score:  55.75
+perplexity_score:  214.37369040710675
+DATA
+number unique words used:  245
+average words length in char:  4.760956175298805
+avg sentences length in words:  25.1
+average sentences length in char:  143.6
+
+
+
+
+
+---------- PERFECT -------------
+grade_level:  11.0
+ari:  15.4
+coleman_liau:  11.73
+gunning_fog:  12.3
+smog:  11.0
+reading_ease_score:  62.31
+perplexity_score:  220.30044333999822
+DATA
+number unique words used:  246
+average words length in char:  4.969581749049429
+avg sentences length in words:  23.90909090909091
+average sentences length in char:  141.8181818181818
+
+
+
+
+
+
+
+
+
+
+###################### gpt_40000 #############################################
+---------- FLOWERS -------------
+grade_level:  4.2
+ari:  4.5
+coleman_liau:  5.61
+gunning_fog:  5.48
+smog:  7.3
+reading_ease_score:  85.39
+perplexity_score:  182.54804131750254
+DATA
+number unique words used:  194
+average words length in char:  4.301204819277109
+avg sentences length in words:  12.45
+average sentences length in char:  65.35
+
+
+
+---------- PARTY IN THE USA -------------
+grade_level:  5.1
+ari:  6.4
+coleman_liau:  7.36
+gunning_fog:  6.89
+smog:  8.8
+reading_ease_score:  82.85
+perplexity_score:  201.57459443906012
+DATA
+number unique words used:  197
+average words length in char:  4.412878787878788
+avg sentences length in words:  16.5
+average sentences length in char:  88.875
+
+
+
+
+---------- PERFECT -------------
+grade_level:  4.8
+ari:  6.5
+coleman_liau:  7.29
+gunning_fog:  5.36
+smog:  7.7
+reading_ease_score:  83.66
+perplexity_score:  195.50063681130055
+DATA
+number unique words used:  197
+average words length in char:  4.524390243902439
+avg sentences length in words:  12.35
+average sentences length in char:  67.5
+
