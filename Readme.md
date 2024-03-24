@@ -1,4 +1,4 @@
-# Graph Neural Network basic
+# Lyrics eto stories
 This is the repo of the final project of EAI.
 <br>
 The project consists of taking as input the lyrics of a song and, extracting the important information, giving as output a story built on the lyrics given. 
